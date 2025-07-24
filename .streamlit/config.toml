@@ -1,14 +1,6 @@
-[theme]
-base = "dark"
-primaryColor = "#00f9ff"
-backgroundColor = "#0b0c10"
-secondaryBackgroundColor = "#1f2833"
-textColor = "#c5c6c7"
-font = "monospace"
-
-[server]
-runOnSave = true
-
-[client]
-showSidebarNavigation = false
-showToolbar = false
+[theme] 
+'primaryColor = "#00FFF7"' 
+'backgroundColor = "#0d0d0d"' 
+'secondaryBackgroundColor = "#1a1a1a"' 
+'textColor = "#00FFF7"' 
+'font = "sans serif"' 
